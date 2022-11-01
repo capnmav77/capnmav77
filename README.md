@@ -1,18 +1,14 @@
 ![image](https://user-images.githubusercontent.com/114616616/198709753-2e2cd86d-3b1f-4316-8e80-e3b616c3b64b.png)
-
+===================================================================================================================================
 ami il caffè? (^///^) 
+just go my repos already
+![image](https://user-images.githubusercontent.com/114616616/199242377-2f8842d1-f90f-4eac-b3ee-0dd4c54e294b.png)
 
-reactjs css javascript html5 python c-language c++(learning) tailwind flutter(learning)
-<!--
-**capnmav77/capnmav77** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+learning cse in PESU
+message me @rameshwar77411@gmail.com
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on promotional website for clubs
-- 🌱 I’m currently learning Mern stack
-- 👯 I’m looking to collaborate on any web technology related projects
-- 🤔 I’m looking for help with c,python,cybersecurity,html,javascript,css,tailwind
-- 💬 Ask me about anything you like 
-- 📫 How to reach me: rameshwar77411@gmail.com
-- ⚡ Fun fact: the faster you go the clearer things get...
--->
+Learning :
+                CPP  React  Video-Editing Nodejs ->basically MERN 
+            
+knowledge(just in case):
+                html5 Css Javascript python C-lang tailwind 
