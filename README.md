@@ -1,6 +1,6 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=45&pause=1000&color=FFC100&width=600&height=80&lines=Hola!+This+is+Ramesh+%3A-P+;Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=45&pause=1000&color=FFC100&background=3939391B&width=600&height=80&lines=Hola!+This+is+Ramesh+%3A-P+;Welcome+to+my+Github!)](https://git.io/typing-svg)
 \
-Zealous about Making new stuff aand also Fixing them..\
+<p style="color:red">Zealous about Making new stuff aand also Fixing them..</p>\
 Message me at @capnprice11@gmail.com\
 I'm fluent in: 
 \
