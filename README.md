@@ -1,6 +1,5 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=35&pause=1000&color=FFC100&background=3939391B&width=600&height=80&lines=Hola!+This+is+Ramesh+%3A-P+;Welcome+to+my+Github!)](https://git.io/typing-svg)
 \
-![Alt text](https://raw.github.com/potherca-blog/StackOverflow/master/question.13808020.include-an-svg-hosted-on-github-in-markdown/controllers_brief.svg)
 Zealous about Making new stuff aand also Fixing them..\
 Message me at @capnprice11@gmail.com\
 I'm fluent in: 
@@ -30,6 +29,7 @@ I'm fluent in:
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
+ \
  \
 <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
 
