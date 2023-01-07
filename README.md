@@ -1,4 +1,4 @@
-<h2> Hi, I'm Ramesh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=45&pause=1000&color=FFC100&width=600&height=80&lines=Hola!+This+is+Ramesh+%3A-P+;Welcome+to+my+Github!)](https://git.io/typing-svg)
 \
 Zealous about Making new stuff aand also Fixing them..\
 Message me at @capnprice11@gmail.com\
