@@ -1,6 +1,5 @@
 <h2> Hi, I'm Ramesh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
-<p><em>Software Enginner at <a href="http://www.unb.br">PES University</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
-  \
+\
 Zealous about Making new stuff aand also Fixing them..\
 Message me at @capnprice11@gmail.com\
 I'm fluent in: 
