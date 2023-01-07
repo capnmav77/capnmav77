@@ -1,5 +1,9 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=45&pause=1000&color=D94C24&width=600&height=80&lines=Hola!+This+is+Ramesh+%3A-P+;Welcome+to+my+Github!)](https://git.io/typing-svg)
-\
+<h2> Hi, I'm Ramesh! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
+<p><em>Software Enginner at <a href="http://www.unb.br">University of Brasilia</a><img src="https://media.giphy.com/media/fYSnHlufseco8Fh93Z/giphy.gif" width="30">
+<p align="center">
+  <a href="https://github.com/DenverCoder1">
+    <img src="https://user-images.githubusercontent.com/20955511/199138068-0a7b7b75-a024-4f00-803f-30a19c5d1b2d.png" alt="Jonah Lawrence" /></a>
+</p>
 Zealous about Making new stuff aand also Fixing them..\
 Message me at @capnprice11@gmail.com\
 I'm fluent in: 
@@ -29,7 +33,9 @@ I'm fluent in:
   ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
   ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
   ![Tor](https://img.shields.io/badge/Tor-7D4698?style=for-the-badge&logo=Tor-Browser&logoColor=white)
-  
+  //
+  <img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
+
   
   
   
