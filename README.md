@@ -1,8 +1,8 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=30&duration=4500&pause=500&color=F75C06&multiline=true&width=435&height=100&lines=Hi+this+is+Ramesh+%3A-P;+Welcome+to+my+Github!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=45&pause=1000&color=D94C24&width=600&height=80&lines=Hola!+This+is+Ramesh+%3A-P+;Welcome+to+my+Github!)](https://git.io/typing-svg)
 \
+Zealous about Making new stuff aand also Fixing them..\
 Message me at @capnprice11@gmail.com\
-Also...
-I am fluent in: 
+I'm fluent in: 
 \
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
   ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
