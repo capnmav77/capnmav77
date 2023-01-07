@@ -1,7 +1,8 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Noto+Sans&weight=500&size=35&pause=1000&color=FFC100&background=3939391B&width=600&height=80&lines=Hola!+This+is+Ramesh+%3A-P+;Welcome+to+my+Github!)](https://git.io/typing-svg)
-\
+\\
 Zealous about Making new stuff aand also Fixing them..\
 Message me at @capnprice11@gmail.com\
+\
 I'm fluent in: 
 \
   ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -18,7 +19,8 @@ I'm fluent in:
   ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
   ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
   \
-  Tools i use:\
+  \
+  Tools i use:\\
   ![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge)
   ![Kali](https://img.shields.io/badge/Kali-268BEE?style=for-the-badge&logo=kalilinux&logoColor=white)
   ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
