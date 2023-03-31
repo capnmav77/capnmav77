@@ -1,6 +1,6 @@
 # Hi there, I'm ramesh <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-<img align="center" src="assets/pusheencode.gif"/>
+<img align="left" src="assets/pusheencode.gif"/>
 
 <p align="left">💻 CSE enthusiast and learning game-dev</p>
 <p align="left">📚 B.Tech in Computer Science and Engineering at PESU</p>
