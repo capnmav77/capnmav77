@@ -1,10 +1,11 @@
 # Hi there, I'm ramesh <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-<img align="left" src="assets/pusheencode.gif"/>
+<!-- <img align="left" src="assets/pusheencode.gif"/>
 <p align="left">💻 CSE enthusiast and dev</p>
 <p align="left">📚 B.Tech in Computer Science and Engineering at PESU</p>
 <p align="left">👨‍💻 Learning about flutter and dart programming</p>
-<p align="left">🎮 nocturnal being and skilled gamer </p>
+<p align="left">🎮 nocturnal being and skilled gamer </p> -->
+<p>💻 CSE enthusiast persuing 📚 B.Tech in Computer Science and Engineering at PESU , totally into exploring and learning new stuff, i'm currently 👨‍💻 Learning about flutter and dart programming plus 🎮 a nocturnal being and skilled gamer...</p>
 
 ![My github stats](https://github-readme-stats.vercel.app/api?username=capnmav77&theme=gruvbox&show_icons=true&hide=["issues"])
 
