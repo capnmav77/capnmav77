@@ -8,7 +8,7 @@
 <p align="left">🎮 nocturnal being and skilled gamer </p>
 <!-- <p>💻 CSE enthusiast persuing 📚 B.Tech in Computer Science and Engineering at PESU , totally into exploring and learning new stuff, i'm currently 👨‍💻 Learning about flutter and dart programming plus 🎮 a nocturnal being and skilled gamer...</p> -->
 
-![My github stats](https://github-readme-stats.vercel.app/api?username=capnmav77&theme=gruvbox&show_icons=true&hide=["issues"])
+<!--![My github stats](https://github-readme-stats.vercel.app/api?username=capnmav77&theme=gruvbox&show_icons=true&hide=["issues"]-->
 
 ## 👨‍💻 Languages
 <a href=""><img alt="" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a>
