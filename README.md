@@ -53,21 +53,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameshwar-dl/) 
 [![CodeChef](	https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mav77411)
 [![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rameshwar77/)
----
-![](https://komarev.com/ghpvc/?username=capnmav77&&style=for-the-badge)
-
-
-
-
-
-
-
-
-
-
-
-## ☎️ Contact me 
-
 <a href = "mailto:capnprice11@gmail.com?subject=From your Github Profile" ><img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 <!-- <a href = "https://www.linkedin.com/in/aronya-baksy-062a21183/" ><img src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a> -->
 <!-- <a href = "https://twitter.com/AronyaBaksy" ><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=Twitter&logoColor=white"/> </a> -->
