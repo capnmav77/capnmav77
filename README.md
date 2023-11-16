@@ -7,17 +7,6 @@
 <p align="left">🔮 **Immersive Realms:** Currently exploring the captivating worlds of virtual and augmented reality, creating experiences that transport users to new dimensions.
 </p>
 <p align="left">Venturing into DevOps and AI/ML domains, uncovering the potential they hold for innovation. </p>
-<!-- <p>💻 CSE enthusiast persuing 📚 B.Tech in Computer Science and Engineering at PESU , totally into exploring and learning new stuff, i'm currently 👨‍💻 Learning about flutter and dart programming plus 🎮 a nocturnal being and skilled gamer...</p> -->
-
-Welcome to my GitHub profile. Here's a glimpse of my tech journey:
-
-🕹️ **Game Dev & Web Dev:** Crafting immersive experiences through Game Development and Web Development.
-
-🚀 **Curious Learner:** Constantly diving into new technologies and crafting exciting projects.
-
-🔮 **Immersive Realms:** Currently exploring the captivating worlds of virtual and augmented reality, creating experiences that transport users to new dimensions.
-
-⚙️ **Tech Exploration:** Venturing into DevOps and AI/ML domains, uncovering the potential they hold for innovation.
 
 
 ## 💻 Tech Stack:
@@ -31,14 +20,14 @@ Welcome to my GitHub profile. Here's a glimpse of my tech journey:
 |---|---|---|---|---|
 
 ### Programming Languages
-| ![JavaScript](https://skillicons.dev/icons?i=javascript&theme=dark) | ![Python](https://skillicons.dev/icons?i=python&theme=dark) | ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) | ![C](https://skillicons.dev/icons?i=c&theme=dark) |
-|---|---|---|---|
+| ![Python](https://skillicons.dev/icons?i=python&theme=dark) | ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) | ![C](https://skillicons.dev/icons?i=c&theme=dark) |
+|---|---|---|
 
 ### Web Development
-| ![HTML](https://skillicons.dev/icons?i=html&theme=dark) | ![CSS](https://skillicons.dev/icons?i=css&theme=dark) | ![React](https://skillicons.dev/icons?i=react&theme=dark) | ![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark) | ![Nodejs](https://skillicons.dev/icons?i=nodejs&theme=dark) | ![Expressjs](https://skillicons.dev/icons?i=express&theme=dark) | ![Django](https://skillicons.dev/icons?i=django&theme=dark) | ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss&theme=dark) | ![Three.js](https://skillicons.dev/icons?i=threejs&theme=dark) |![Vercel](https://skillicons.dev/icons?i=vercel&theme=dark) |
-|---|---|---|---|---|---|---|---|---|---|
+| ![HTML](https://skillicons.dev/icons?i=html&theme=dark) | ![CSS](https://skillicons.dev/icons?i=css&theme=dark) | ![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark)  ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss&theme=dark) 
+|---|---|---|
 
-
+### Machine Learning
 
 
 ### Game Development 
@@ -59,11 +48,10 @@ Welcome to my GitHub profile. Here's a glimpse of my tech journey:
 
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/avanish_shenoy)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ashenoy64) 
-[![CodeChef](	https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/meowmaster)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=black)](https://www.hackerrank.com/ashenoy64)
-[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/ashenoy64/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/ramesh_77_)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rameshwar-dl/) 
+[![CodeChef](	https://img.shields.io/badge/-CodeChef-5B4638?style=for-the-badge&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/mav77411)
+[![Leetcode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rameshwar77/)
 ---
 ![](https://komarev.com/ghpvc/?username=capnmav77&&style=for-the-badge)
 
