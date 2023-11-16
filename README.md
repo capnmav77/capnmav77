@@ -16,8 +16,8 @@
 |---|---|---|---|---|
 
 ### Development Tools
-| ![VScode](https://skillicons.dev/icons?i=vscode&theme=dark) | ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) | ![Vscode](https://skillicons.dev/icons?i=visualstudio&theme=dark) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) |
-|---|---|---|---|---|
+| ![VScode](https://skillicons.dev/icons?i=vscode&theme=dark) | ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) | ![Vscode](https://skillicons.dev/icons?i=visualstudio&theme=dark) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) | ![Supabase](https://skillicons.dev/icons?i=fastapi&theme=dark) |
+|---|---|---|---|---|---|
 
 ### Programming Languages
 | ![Python](https://skillicons.dev/icons?i=python&theme=dark) | ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) | ![C](https://skillicons.dev/icons?i=c&theme=dark) |
@@ -28,7 +28,8 @@
 |---|---|---|
 
 ### Machine Learning
-
+| ![HTML](https://skillicons.dev/icons?i=pytorch&theme=dark) | ![CSS](https://skillicons.dev/icons?i=tensorflow&theme=dark) 
+|---|---|
 
 ### Game Development 
 | ![UNREAL](https://skillicons.dev/icons?i=unreal&theme=dark) | ![UNITY](https://skillicons.dev/icons?i=unity&theme=dark) | ![Blender](https://skillicons.dev/icons?i=blender&theme=dark) |
