@@ -16,8 +16,8 @@
 |---|---|---|---|---|
 
 ### Development Tools
-| ![VScode](https://skillicons.dev/icons?i=vscode&theme=dark) | ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) | ![Vscode](https://skillicons.dev/icons?i=visualstudio&theme=dark) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) |  | ![Figma](https://skillicons.dev/icons?i=figma&theme=dark) | ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) | ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) |
-|---|---|---|---|---|---|--|---|---|
+| ![VScode](https://skillicons.dev/icons?i=vscode&theme=dark) | ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) | ![Vscode](https://skillicons.dev/icons?i=visualstudio&theme=dark) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) |  ![Figma](https://skillicons.dev/icons?i=figma&theme=dark) | ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) | ![Linux](https://skillicons.dev/icons?i=linux&theme=dark) |
+|---|---|---|---|---|---|--|---|
 
 ### Programming Languages
 | ![Python](https://skillicons.dev/icons?i=python&theme=dark) | ![C++](https://skillicons.dev/icons?i=cpp&theme=dark) | ![C](https://skillicons.dev/icons?i=c&theme=dark) |
