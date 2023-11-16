@@ -16,7 +16,7 @@
 |---|---|---|---|---|
 
 ### Development Tools
-| ![VScode](https://skillicons.dev/icons?i=vscode&theme=dark) | ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) | ![Vscode](https://skillicons.dev/icons?i=visualstudio&theme=dark) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) | ![Fastapi](https://skillicons.dev/icons?i=fastapi&theme=dark) | ![Figma](https://skillicons.dev/icons?i=figma&theme=dark) | ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) | ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
+| ![VScode](https://skillicons.dev/icons?i=vscode&theme=dark) | ![Postman](https://skillicons.dev/icons?i=postman&theme=dark) | ![Vscode](https://skillicons.dev/icons?i=visualstudio&theme=dark) | ![Git](https://skillicons.dev/icons?i=git&theme=dark) | ![Docker](https://skillicons.dev/icons?i=docker&theme=dark) |  | ![Figma](https://skillicons.dev/icons?i=figma&theme=dark) | ![GitHub](https://skillicons.dev/icons?i=github&theme=dark) | ![Linux](https://skillicons.dev/icons?i=linux&theme=dark)
 |---|---|---|---|---|---|--|--|--|
 
 ### Programming Languages
@@ -24,8 +24,8 @@
 |---|---|---|
 
 ### Web Development
-| ![HTML](https://skillicons.dev/icons?i=html&theme=dark) | ![CSS](https://skillicons.dev/icons?i=css&theme=dark) | ![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark)  ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss&theme=dark) 
-|---|---|---|
+| ![HTML](https://skillicons.dev/icons?i=html&theme=dark) | ![CSS](https://skillicons.dev/icons?i=css&theme=dark) | ![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark)  ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss&theme=dark) | ![Fastapi](https://skillicons.dev/icons?i=fastapi&theme=dark)
+|---|---|---|--|
 
 ### Machine Learning
 | ![HTML](https://skillicons.dev/icons?i=pytorch&theme=dark) | ![CSS](https://skillicons.dev/icons?i=tensorflow&theme=dark) | ![CSS](https://skillicons.dev/icons?i=keras&theme=dark) |
