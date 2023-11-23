@@ -24,8 +24,8 @@
 |---|---|---|
 
 ### Web Development
-| ![HTML](https://skillicons.dev/icons?i=html&theme=dark) | ![CSS](https://skillicons.dev/icons?i=css&theme=dark) | ![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark)  ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss&theme=dark) | ![Fastapi](https://skillicons.dev/icons?i=fastapi&theme=dark)
-|---|---|---|--|
+| ![HTML](https://skillicons.dev/icons?i=html&theme=dark) | ![CSS](https://skillicons.dev/icons?i=css&theme=dark) | ![Nextjs](https://skillicons.dev/icons?i=nextjs&theme=dark) | ![TailwindCSS](https://skillicons.dev/icons?i=tailwindcss&theme=dark) | ![Fastapi](https://skillicons.dev/icons?i=fastapi&theme=dark)
+|---|---|---|--|--|
 
 ### Machine Learning
 | ![HTML](https://skillicons.dev/icons?i=pytorch&theme=dark) | ![CSS](https://skillicons.dev/icons?i=tensorflow&theme=dark) | ![CSS](https://skillicons.dev/icons?i=keras&theme=dark) |
