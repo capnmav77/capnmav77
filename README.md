@@ -1,12 +1,12 @@
 # Hi there, I'm ramesh <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
 <img align="left" src="assets/pusheencode.gif"/>
-
-<p align="left">🕹️ **Game Dev & Databases enthu:** Crafting immersive experiences through Game Development and Web Development.</p>
-<p align="left">🚀 **Curious Learner:** Constantly diving into new technologies and crafting exciting projects.</p>
-<p align="left">🔮 **Immersive Realms:** Currently exploring the captivating worlds of virtual and augmented reality, creating experiences that transport users to new dimensions.
+<p align="left">🤖Venturing into DevOps and AI/ML domains, uncovering the potential they hold for innovation. </p>
+<p align="left">🕹️ Game Dev & Databases enthu: Crafting immersive experiences through Game Development and Web Development.</p>
+<p align="left">🚀 Curious Learner: Constantly diving into new technologies and crafting exciting projects.</p>
+<p align="left">🔮 Immersive Realms: Currently exploring the captivating worlds of virtual and augmented reality, creating experiences that transport users to new dimensions.
 </p>
-<p align="left">Venturing into DevOps and AI/ML domains, uncovering the potential they hold for innovation. </p>
+
 
 
 ## 💻 Tech Stack:
