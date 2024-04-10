@@ -7,6 +7,8 @@
 <p align="left">🔮 Immersive Realms: Currently exploring the captivating worlds of virtual and augmented reality, creating experiences that transport users to new dimensions.
 </p>
 
+[![An image of @capnmav77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/capnmav77)](https://holopin.io/@capnmav77)
+
 
 
 ## 💻 Tech Stack:
