@@ -1,11 +1,30 @@
 # Hi there, I'm ramesh <img src="https://user-images.githubusercontent.com/5679180/79618120-0daffb80-80be-11ea-819e-d2b0fa904d07.gif" width="27px">
 
-<img align="left" src="assets/pusheencode.gif"/>
-<p align="left">🤖Venturing into DevOps and AI/ML domains, uncovering the potential they hold for innovation. </p>
-<p align="left">🕹️ Game Dev & Databases enthu: Crafting immersive experiences through Game Development and Web Development.</p>
-<p align="left">🚀 Curious Learner: Constantly diving into new technologies and crafting exciting projects.</p>
-<p align="left">🔮 Immersive Realms: Currently exploring the captivating worlds of virtual and augmented reality, creating experiences that transport users to new dimensions.
-</p>
+<p align="center">
+<!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="280" height="auto" alt="ERROR: cant load image"/>  -->
+<img src="assets/pusheencode.gif" align="right" width="280 height="auto" />
+
+  <p align="top">
+  reconstructing bits of reality in my compiler of dilemma  &nbsp;🚀
+
+
+ ###  About me:
+ <p>
+   keepin calm and keepin simple...
+ </p>
+<div>  
+ <!--   <a href="https://www.codechef.com/users/weshaan108" target="_blank"><img src="https://gitgud.io/uploads/-/system/group/avatar/12294/cc.png" hspace="1" vspace="2" height="45" width="45" align="top" target="_blank">
+      </a> 
+  <a href="https://www.linkedin.com/in/rameshwar-dl/"  target="_blank"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/LinkedIn.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> 
+ <a href="https://www.instagram.com/ramesh_77_/" target="_blank"><img src="https://brandeps.com/logo-download/I/Instagram-Icon-logo-vector-01.svg" hspace="1" vspace="2" height="40" width="40" align="top" target="_blank"></a>
+  <a href = "https://discord.com/users/758003153571676391"><img src="https://raw.githubusercontent.com/tandpfun/skill-icons/59059d9d1a2c092696dc66e00931cc1181a4ce1f/icons/Discord.svg" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a>
+  <a href = "mailto: rameshwar77411@gmail.com"><img src="https://mailmeteor.com/logos/assets/PNG/Gmail_Logo_512px.png" hspace="1" vspace="0" height="36" width="auto" align="top" target="_blank"></a>
+ 
+<!-- <a href = "https://leetcode.com/weshaan/"><img src="https://imgs.search.brave.com/Z4bDDKGirOdE1wVbm7JIJg6Vcwtsc3Aey_dcXXM3tRA/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9jZG4u/aWNvbnNjb3V0LmNv/bS9pY29uL2ZyZWUv/cG5nLTI1Ni9mcmVl/LWxlZXRjb2RlLTM1/MjE1NDItMjk0NDk2/MC5wbmc_Zj13ZWJw/Jnc9MjU2" hspace="1" vspace="0" height="40" width="40" align="top" target="_blank"></a> -->
+<!--  <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" align="" width="auto" height="40" alt="ERROR: cant load image"/>  -->
+
+</br></br>
+</div>
 
 [![An image of @capnmav77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/capnmav77)](https://holopin.io/@capnmav77)
 
@@ -38,16 +57,11 @@
 |---|---|---|
 
 
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=capnmav77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=capnmav77&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=capnmav77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=capnmav77&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 
 ## 🌐 Socials:
