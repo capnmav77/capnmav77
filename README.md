@@ -25,10 +25,12 @@
 ### 🐙OpenSource Contribution
 [![An image of @capnmav77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/capnmav77)](https://holopin.io/@capnmav77)
 
+<!--
 ## 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=capnmav77&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=capnmav77&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=capnmav77&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+-->
 
 ## 📊 GitHub Stats:
 
