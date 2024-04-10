@@ -22,7 +22,8 @@
   <a href = "https://discord.com/users/758003153571676391/" ><img alt="Discord" src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"/> </a>
   <img src="https://media.giphy.com/media/a5viI92PAF89q/giphy.gif" align="" width="auto" height="40" alt="ERROR: cant load image"/> 
 
-### 🐙OpenSource Contribution
+## 🐙OpenSource Contribution
+
 [![An image of @capnmav77's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/capnmav77)](https://holopin.io/@capnmav77)
 
 <!--
