@@ -49,9 +49,13 @@ smooth operatorr...
 ## 💻 Tech Stack:
 
 ### Skills and Experiences
+<!--
 <a href="https://skillicons.dev">
   <img src="https://skillicons.dev/icons?i=arch,aws,azure,bash,blender,c,cpp,cloudflare,cmake,docker,figma,firebase,flask,git,github,java,kafka,latex,linux,lua,mongodb,mysql,py,pytorch,ros,sklearn,unity,unreal,vim,vscode"/>
 </a>
+-->
+
+[![My Skills](https://skillicons.dev/icons?i=arch,aws,azure,bash,blender,c,cpp,cloudflare,cmake,docker,figma,firebase,flask,git,github,java,kafka,latex,linux,lua,mongodb,mysql,py,pytorch,ros,sklearn,unity,unreal,vim,vscode)](https://skillicons.dev)
 
 <!--
 | ![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark) | ![Postgres](https://skillicons.dev/icons?i=postgresql&theme=dark) | ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) | ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) | ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) |
