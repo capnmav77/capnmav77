@@ -55,7 +55,7 @@ smooth operatorr...
 </a>
 -->
 
-[![My Skills](https://skillicons.dev/icons?i=arch,aws,azure,bash,blender,c,cpp,cloudflare,cmake,docker,figma,firebase,flask,git,github,java,kafka,latex,linux,lua,mongodb,mysql,py,pytorch,ros,sklearn,unity,unreal,vim,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=arch,aws,azure,bash,blender,c,cpp,cloudflare,cmake,docker,figma,firebase,flask,git,github,java,kafka,latex,linux,lua,mongodb,mysql,py,pytorch,ros,sklearn,unity,unreal,vim,vscode&perline=8)](https://skillicons.dev)
 
 <!--
 | ![Supabase](https://skillicons.dev/icons?i=supabase&theme=dark) | ![Postgres](https://skillicons.dev/icons?i=postgresql&theme=dark) | ![MongoDB](https://skillicons.dev/icons?i=mongodb&theme=dark) | ![Firebase](https://skillicons.dev/icons?i=firebase&theme=dark) | ![AWS](https://skillicons.dev/icons?i=aws&theme=dark) |
