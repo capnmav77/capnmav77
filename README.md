@@ -1,4 +1,4 @@
-# Hi there, I'm Ramesh! 
+# Hi there, I'm Rame/sh! 
 
 <p align="center">
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="280" height="auto" alt="ERROR: cant load image"/>  -->
@@ -7,7 +7,8 @@
 <!--  <p align="top">
   reconstructing bits of reality in my compiler of dilemma  &nbsp;🚀
   -->
-smooth operatorr...
+only addicted to ~cocaine~ caffiene ...
+if you get it we can vibe...
 
  ### find me at:
 
