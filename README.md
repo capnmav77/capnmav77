@@ -4,9 +4,9 @@
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="280" height="auto" alt="ERROR: cant load image"/>  -->
 <img src="assets/pusheencode.gif" align="right" width="280 height="auto" />
 
-Only addicted to ~coke~ caffiene... but if you read that right, we can totally vibe. 
+Totally addicted to ~coke~ caffiene... but if you read that right, we can totally vibe. 
 
-I'm just vibing through life, one typo at a time. If you get it, you get it. If not, well, you probably will once you start scrolling through this code... or maybe after a snack break.
+Busy Chilling ...
 
 
  ### find me at:
