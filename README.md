@@ -4,7 +4,7 @@
 <!--   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmVlZjNmMGQxZTU3NDgyMjU4Njg0ZWEwYzk3YjQ1Njc3ZmU3ODhhNiZjdD1n/E7qhaXjCoZmDsHKpTN/giphy.gif" align="right"  width="280" height="auto" alt="ERROR: cant load image"/>  -->
 <img src="assets/pusheencode.gif" align="right" width="280 height="auto" />
 
-Totally addicted to ~coke~ caffiene... but if you read that right, we can totally vibe. 
+Totally addicted to caffeine, down to talk systems, finance, AI over coffee anytime. 
 
 Busy Chilling ...
 
