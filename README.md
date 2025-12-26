@@ -6,8 +6,6 @@
 
 Totally addicted to caffeine, down to talk systems, finance, AI over coffee anytime. 
 
-Busy Chilling ...
-
 
  ### find me at:
 
